@@ -1,0 +1,17 @@
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\bin\Debug\net6.0-windows\Laboratorio02.exe
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\bin\Debug\net6.0-windows\Laboratorio02.deps.json
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\bin\Debug\net6.0-windows\Laboratorio02.runtimeconfig.json
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\bin\Debug\net6.0-windows\Laboratorio02.dll
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\bin\Debug\net6.0-windows\Laboratorio02.pdb
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\Laboratorio02.csproj.AssemblyReference.cache
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\Laboratorio02.Form1.resources
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\Laboratorio02.csproj.GenerateResource.cache
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\Laboratorio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\Laboratorio02.AssemblyInfoInputs.cache
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\Laboratorio02.AssemblyInfo.cs
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\Laboratorio02.csproj.CoreCompileInputs.cache
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\Laboratorio02.dll
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\refint\Laboratorio02.dll
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\Laboratorio02.pdb
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\Laboratorio02.genruntimeconfig.cache
+C:\Users\benit\OneDrive\Escritorio\Laboratorio_02\Laboratorio02\Laboratorio02\obj\Debug\net6.0-windows\ref\Laboratorio02.dll
